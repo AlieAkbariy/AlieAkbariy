@@ -1,7 +1,6 @@
 ### Hi there 👋
 
+I'm Ali , back-end developer and also bachelor student of Yazd university. I also like front-end library like react.
 
-- 🔭 I’m currently working on Organic Fruit website
-- 🌱 I’m currently learning Django and Rest-Django_Api
-- 📫 How to reach me: alieakbariy@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlieAkbariy)](https://github.com/anuraghazra/github-readme-stats)
 
