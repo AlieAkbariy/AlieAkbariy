@@ -33,7 +33,7 @@ Familiar with **AWS** and **Azure**, I enjoy tackling complex problems and optim
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-psi-five-62.vercel.ap/api?username=alieakbariy&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats-psi-five-62.vercel.app/api?username=alieakbariy&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats-psi-five-62.vercel.app/api/top-langs/?username=alieakbariy&layout=compact&theme=radical&count_private=true)
 
